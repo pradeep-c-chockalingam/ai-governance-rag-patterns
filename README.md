@@ -10,10 +10,10 @@ The emphasis is on controlling how data is retrieved, used, explained, and expos
 
 This repository focuses on AI governance patterns and should be viewed in conjunction with:
 
-- [Governed Lakehouse Architecture](https://github.com/<your-username>/governed-lakehouse-architecture)  
+- [Governed Lakehouse Architecture](https://github.com/pradeep-c-chockalingam/governed-lakehouse-architecture)  
   Core data platform architecture and governance model
 
-- [Data Governance Patterns](https://github.com/<your-username>/data-governance-patterns)  
+- [Data Governance Patterns](https://github.com/pradeep-c-chockalingam/data-governance-patterns)  
   Reusable governance patterns including validation and access control
 
 These repositories together define a governed approach to data and AI platforms, from ingestion and transformation through to AI interaction and output control.
