@@ -6,6 +6,18 @@ This repository documents reusable architecture patterns for governing AI system
 
 The emphasis is on controlling how data is retrieved, used, explained, and exposed during AI interactions rather than treating governance as a storage-only concern.
 
+## Related Architecture Context
+
+This repository focuses on AI governance patterns and should be viewed in conjunction with:
+
+- [Governed Lakehouse Architecture](https://github.com/<your-username>/governed-lakehouse-architecture)  
+  Core data platform architecture and governance model
+
+- [Data Governance Patterns](https://github.com/<your-username>/data-governance-patterns)  
+  Reusable governance patterns including validation and access control
+
+These repositories together define a governed approach to data and AI platforms, from ingestion and transformation through to AI interaction and output control.
+
 ## Core Philosophy
 
 - AI should operate within governed boundaries
